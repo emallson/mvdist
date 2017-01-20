@@ -1,4 +1,5 @@
 # mvdist
+[![Build Status](https://travis-ci.org/emallson/mvdist.svg?branch=master)](https://travis-ci.org/emallson/mvdist)
 
 A Rust wrapper for the QRSVN method by Dr. Alan Genz & Dr. Frank Bretz. See
 [mvdist-sys](https://github.com/emallson/mvdist-sys/) for the minimal wrapper
