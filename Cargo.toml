@@ -1,0 +1,10 @@
+[package]
+authors = ["J David Smith <emallson@atlanis.net>"]
+description = "More usable wrapper for mvdist-sys."
+name = "mvdist"
+version = "0.2.0"
+
+[dependencies]
+lazy_static = "0.2.2"
+mvdist-sys = { version = "0.2.0", git = "https://github.com/emallson/mvdist-sys.git"}
+ndarray = "0.7.2"
